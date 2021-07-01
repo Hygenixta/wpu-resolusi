@@ -3,3 +3,5 @@ Resolusi ku
 - Belajar ulang fundamental android class dicoding
 - Belajar ulang android jepack pro class dicoding 
 - Membuat portofolio
+- Mengunggah portofolio pada github
+- Menambahkan link github pada linkedin
