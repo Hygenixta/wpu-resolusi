@@ -1,6 +1,10 @@
 Hal yang kami lakukan untuk membuat portofolio
 1. persiapan
    - belajar android pemula 
-   - belajar fundamental android
+   - belajar android jetpack pro
+   - belajar github
 2. membuat project
+   - to do list 
+   - note
+   - catalog film
 3. memamerkan di github
