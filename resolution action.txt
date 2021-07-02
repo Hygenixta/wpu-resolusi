@@ -5,10 +5,10 @@ Hal yang kami lakukan untuk membuat portofolio
    - belajar android jetpack pro
    - belajar github
 2. membuat project
-   - kamus
    - to do list 
    - note
    - catalog film
-3. memamerkan di github
-4. update di linkedin
-5. daftar magang
+   - sistem informasi
+   - reminder
+2. update di linkedin
+4. daftar magang
