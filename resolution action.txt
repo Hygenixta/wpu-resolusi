@@ -1,6 +1,5 @@
 Hal yang kami lakukan untuk membuat portofolio
 1. persiapan
-   - belajar android pemula 
    - belajar fundamental android
 2. membuat project
    - kamus
