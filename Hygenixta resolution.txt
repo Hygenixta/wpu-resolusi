@@ -1,0 +1,3 @@
+Resolusi ke depan
+1. belajar unit testing
+2. belajar design pattern
