@@ -3,6 +3,7 @@ Hal yang kami lakukan untuk membuat portofolio
    - belajar android pemula 
    - belajar fundamental android
 2. membuat project
+   - kamus
 3. memamerkan di github
 4. update di linkedin
 5. daftar magang
