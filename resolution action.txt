@@ -4,6 +4,7 @@ Hal yang kami lakukan untuk membuat portofolio
    - belajar android pemula 
    - belajar android jetpack pro
    - belajar github
+   - Angular
 2. membuat project
    - to do list 
    - note
